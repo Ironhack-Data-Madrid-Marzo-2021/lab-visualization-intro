@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This lab contains one challenge. Follow the instructions of your instructor and complete it.
+This lab contains one challenge. Follow the instructions of your instructor and complete it.    
 
 ## Deliverables
 
